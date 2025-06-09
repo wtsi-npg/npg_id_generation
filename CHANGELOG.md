@@ -6,6 +6,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+### [Changed]
+
+- Use hash instead of version to declare dependency on ncipollo/release-action
+
 ### [Added]
 
 - Added .github/dependabot.yml file to auto-update GitHub actions 
